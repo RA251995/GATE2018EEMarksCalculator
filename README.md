@@ -1,8 +1,8 @@
 # GATE 2018 EE Marks Calculator
 
 ### Dependencies:
-  PDFMiner.six https://github.com/pdfminer/pdfminer.six
-  NumPy http://www.numpy.org/
+  - PDFMiner.six https://github.com/pdfminer/pdfminer.six
+  - NumPy http://www.numpy.org/
 
 ### Instructions:
   1. Install Dependencies using pip
