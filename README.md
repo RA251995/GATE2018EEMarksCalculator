@@ -1,1 +1,1 @@
-# GATE2018EEMarksCalculator
+# GATE 2018 EE Marks Calculator
